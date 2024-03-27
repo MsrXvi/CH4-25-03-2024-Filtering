@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "6602d413e7cf73266f09cab2",
+    "name": "Latonya Tucker",
+    "age": 24,
+    "email": "latonyatucker@entropix.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-4.jpg",
+    "password": "",
+    "createdAt": "2017-11-29T04:33:52"
+  },
+  {
+    "_id": "6602d413c336b8333d475bd0",
+    "name": "Hampton Harmon",
+    "age": 26,
+    "email": "hamptonharmon@entropix.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2015-07-17T08:30:36"
+  },
+  {
+    "_id": "6602d4136de7441aa172fb9c",
+    "name": "Erickson Meyers",
+    "age": 31,
+    "email": "ericksonmeyers@entropix.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-2.jpg",
+    "password": "",
+    "createdAt": "2016-04-05T08:58:23"
+  },
+  {
+    "_id": "6602d4132f1c27dca6605ad1",
+    "name": "Castro Burris",
+    "age": 40,
+    "email": "castroburris@entropix.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-4.jpg",
+    "password": "",
+    "createdAt": "2019-12-06T01:08:05"
+  },
+  {
+    "_id": "6602d413753082eb58246371",
+    "name": "Ballard Blevins",
+    "age": 39,
+    "email": "ballardblevins@entropix.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2016-11-04T10:07:59"
+  }
+]
